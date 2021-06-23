@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  padding: 28px 22px;
+}
+
+header h1 {
+  text-align: left;
+  font-size: 72px;
+}
